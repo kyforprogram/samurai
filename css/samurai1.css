@@ -1,0 +1,17 @@
+samurai1.css
+@charset "utf-8;
+
+
+h1 {
+  color: crimson;
+}
+
+
+.blue {
+  color: blue;
+}
+
+.container {
+  background-color: lawngreen;
+  border-style: solid;
+}
