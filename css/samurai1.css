@@ -1,17 +1,24 @@
 samurai1.css
-@charset "utf-8;
+
+@charset="utf-8;
 
 
 h1 {
   color: crimson;
 }
-
+#text-center {
+  border-style:solid;
+  text-align: center;
+width
+}
 
 .blue {
   color: blue;
+  background-color: crimson;
 }
 
 .container {
   background-color: lawngreen;
   border-style: solid;
+  text-align: center;
 }
